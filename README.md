@@ -4,3 +4,5 @@
 ## The first one reaches wins
 
 ### You can play this game using [diceGameLink](https://effervescent-cajeta-3c908d.netlify.app/).
+
+#### This game made for disktops
